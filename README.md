@@ -3,7 +3,7 @@
 
 ![alt text](https://github.com/web3privacy/web3privacy/blob/main/static-assets/logo3.png?raw=true)
 
-⚠️ **Note!** Highlighted Privacy Enhanced Decentralised Applications (PEDApps) facilitate a different approach to privacy. Their solutions' maturity varies from conceptualisation to mainnet. So use them cautiously, especially when projects don't have a third-party security audit. That's why **Web3Privacy Now** is ongoing research: aggregation (_we are here now_) - audit - scoring.
+⚠️ **Note!** Highlighted Privacy Enhanced Decentralised Applications (PEDApps) facilitate a different approach to privacy. Their solutions' maturity varies from conceptualization to mainnet. So use them cautiously, especially when projects don't have a third-party security audit. That's why **Web3Privacy Now** is ongoing research: aggregation (_we are here now_) - audit - scoring.
 
 Feel free to update the list!
 
@@ -40,7 +40,7 @@ Feel free to update the list!
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/DEFI.png?raw=true)
 | Project  | Description | GitHub | Product-readiness | Ecosystem | Team | Docs | Audit |
 | ------------- | ------------- |------------- |------------- | ------------- | ------------- | ------------- | ------------- |
-| [zkFi](https://zkfi.tech) | A Multichain Modular Privacy Framework with a Decentralized Compliance Network | - | TBD | EVM chains | - | [Docs](https://zkfi.gitbook.io/zkfi-docs/) | - |
+| [Labyrinth](http://labyrinth.technology/) | A Multichain Modular Privacy Framework with a Decentralized Compliance Network | - | TBD | EVM chains | - | [Docs](https://labyrinth.gitbook.io/labyrinth) | - |
 | [Nata Router](https://natarouter.com) [Nata Network](https://natanetwork.io) | Multichain Privacy Protocol built on Across, Stargate and Aztec Connect✨️**ZK** | ([GitHub](https://github.com/shichiro-nakahara)) | live, june 2023 | Ethereum, Polygon, Optimism, Arbitrum, zkSync, Base, Mantle, Avalanche, Fantom, Kava | anon | [Docs](https://docs.natanetwork.io/router/userguide/introduction) | [Audits](https://docs.natanetwork.io/audits) |
 | [Firn Protocol](https://app.firn.cash) | Firn is the first-ever zero-knowledge privacy platform in the _account-based_ model, and introduces pluggable, flexible privacy to Ethereum-based chains. ✨️**ZK** | ([GitHub](https://github.com/firnprotocol)) | live, june 2022 | Ethereum | anon | [Docs](https://docs.firn.cash) | [BlockSec](https://github.com/blocksecteam/audit-reports/blob/main/solidity/blocksec_firnprotocol_v1.0-signed.pdf) |
 | [Shade](https://shadeprotocol.io)  | Shade Protocol is an array of connected privacy-preserving DeFi applications built on Secret Network  | ([GitHub](https://github.com/securesecrets/shade)) | live, february 2023 | Cosmos | anon | [Docs](https://docs.shadeprotocol.io/shade-protocol/) | [RD](https://2763075352-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FGSBEdPwWy2UsGV3OHPY5%2Fuploads%2Fj1LusIDvgZSWkr513hP7%2Fstkd-SCRT%20(staking%20derivative).pdf?alt=media&token=90cc650e-5196-4a04-af7d-3deed9ac9881), [Certik](https://2763075352-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FGSBEdPwWy2UsGV3OHPY5%2Fuploads%2FTCcsJl0kZ2khV5Xu34AH%2FBonds.pdf?alt=media&token=6e3fdd9b-0601-42b8-86a6-fa9b8d9f3a34) |
